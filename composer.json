@@ -1,5 +1,5 @@
 {
-    "name": "sarowar/laravel_slug_generator",
+    "name": "sarowar/laravel-unique-slug-generator",
     "description": "A unique slug generator for laravel application",
     "type": "library",
     "license": "MIT",
